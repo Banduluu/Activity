@@ -1,0 +1,37 @@
+    body {
+      background-image: url(Car.jpeg);
+      background-size: cover;
+      height: 80vh;
+      display: flex;
+      align-items: center;
+      justify-content: start;
+      padding-left: 30px;
+    }
+    .register {
+      background: #fff;
+      border-radius: 15px;
+      padding: 50px;
+      width: 320px;
+    }
+    .register input {
+      border-radius: 25px;
+      text-transform: uppercase;
+      text-align: center;
+      border: 1px solid #ccc;
+    }
+    .register button {
+      border-radius: 25px;
+      width: 100px;
+      margin: 0 auto;
+      display: block;
+    }
+    .line {
+      border-bottom: 2px solid #000;
+      margin-top: 10px;
+      margin-bottom: 10px;
+    }
+    .icons i {
+      font-size: 20px;
+      margin-right: 10px;
+      cursor: pointer;
+    }
